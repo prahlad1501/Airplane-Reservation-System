@@ -1,0 +1,9 @@
+Passenger Name : Pranjal
+Passenger age  : 19
+Passenger gender : M
+Passenger mobile number : 1234567890
+
+Booked Flight Information : 
+
+1796		 ALLIANCE AIR		 22/6/2020		 12:47		 PUNE		 LUCKNOW		 Rs.6048		 
+----------------------------------------------------------------------------------------------------------------------------------
